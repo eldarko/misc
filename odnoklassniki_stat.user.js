@@ -23,6 +23,7 @@ function check_usage()
     }
 }
 
+
 function update_stat()
 {
     var lastDay = window.localStorage['usage_stat_last_day']
